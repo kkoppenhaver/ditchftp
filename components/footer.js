@@ -3,7 +3,7 @@ import { WP_PUSHER_LOGO } from '../lib/constants'
 
 export default function Footer() {
   return (
-    <footer className="bg-accent-1 border-t border-accent-2 bg-dark-blue text-white">
+    <footer className="bg-dark-blue text-white">
       <Container>
         <div className="py-28 flex flex-col lg:flex-row items-center">
           <div>
